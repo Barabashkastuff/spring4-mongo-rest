@@ -10,6 +10,6 @@
     <packaging>jar</packaging>
     <name>Barabashkastuff :: archetype :: REST-Spring-Mongo</name>
     <url>http://barabashkastuff.com</url>
-    <description>RESTful servise (REST->Service->DAO) with Mongo connection with Spring 4 DI</description>
+    <description>RESTful servise (REST->Service->DAO) with Mongo connection and Spring 4 DI</description>
 
 </project>
