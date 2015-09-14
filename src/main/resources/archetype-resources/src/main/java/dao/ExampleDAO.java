@@ -34,7 +34,7 @@ public class ExampleDAO implements IExampleDAO {
         String id = UUID.randomUUID().toString();
         entity.setId(id);
         mongoOperations.save(entity);
-        LOGGER.info(String.format("Saved entity with text=%s...", cryptoEntity.getText()));
+        LOGGER.info(String.format("Saved entity with text=%s...", entity.getText()));
         return id;
     }
 
