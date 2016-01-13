@@ -36,3 +36,5 @@ https://bintray.com/barabashkastuff/spring4-mongo-rest/spring4-mongo-rest/view
 
 ###//TODO
 - Tests
+- WEB-UI
+- Gradle
