@@ -15,13 +15,19 @@
 git clone https://github.com/Barabashkastuff/spring4-mongo-rest.git
 ```
 
-2. Install it in your local maven repository
+2. cd to spring4-mongo-rest directory
+
+```
+cd spring4-mongo-rest
+```
+
+3. Install it in your local maven repository
 
 ```
 mvn install
 ```
 
-3.Generate skeleton
+4.Generate skeleton
 
 ```
 mvn archetype:generate 
