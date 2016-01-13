@@ -9,19 +9,19 @@
 
 ##Generate your project in few steps:
 
-1. Clone project
+1.Clone project
 
 ```
 git clone https://github.com/Barabashkastuff/spring4-mongo-rest.git
 ```
 
-2. cd to spring4-mongo-rest directory
+2.cd to spring4-mongo-rest directory
 
 ```
 cd spring4-mongo-rest
 ```
 
-3. Install it in your local maven repository
+3.Install it in your local maven repository
 
 ```
 mvn install
